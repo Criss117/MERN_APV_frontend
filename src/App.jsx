@@ -9,7 +9,7 @@ import Login from './paginas/public/Login'
 import ConfirmarCuenta from './paginas/public/ConfirmarCuenta'
 import Registrar from './paginas/public/Registrar'
 import VerificarCorreo from './paginas/public/VerificarCorreo'
-import ReestablecerPass from './paginas/public/reestablecerPass'
+import ReestablecerPass from './paginas/public/ReestablecerPass'
 
 //area privada
 import AdministrarPacientes from './paginas/private/AdministrarPacientes'
